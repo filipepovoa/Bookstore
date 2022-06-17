@@ -1,0 +1,53 @@
+Sam,Aucoin,452 Briggs Rd.,Fall River,MA,12747,508741 3698,DAucoin@yahoo.com
+Bob,Bobertson,15 Bobby Drive,Fall River,MA,12747,508 123 4567,BBob@yahoo.com
+Jack,Brown,56 West sea Dr.,Edaville,MA,03448,8466857799,jbrown123@hotmail.com
+Markus,Brown,94 Derby St,Hingham,MA,02156,781 555 0400,BrownM123@gmail.com
+Tom,Brown,52 Woods Hill Drive,Philadelphia,PA,19102,781-531-6629,Tbrown@UPA.edu
+Jaaron,DaCoin,277 Crabs Way,North Dartmouth,MA,02747,5087892595,jdacoin@comcast.net
+Armani,Diego,274 Buckwheat Drive,Franklin Lakes,NJ,02756,201-536-7898,diego@gmail.com
+Explora,Dora,367 Garfield Dr.,Orlando,FL,05679,774-879-2345,doraexplora@gmail.com
+Tyler,Durden,420 Paper St,Wilmington,DE,19886,288-555-1534,Tdurden@pm.org
+Zack,Fair,511 Mako Street,Gongaga,MA,70331,5083387815,zfair@soldier.gov
+Gustavo,Fring,37790 Laundry Street,Los Pollos,NM,53270,652-342-4691,lookatmehector64@aol.com
+Ana,Garcia,37 Park St.,Dayton,OH,45390,937-219-5544,agarcia@aol.com
+Lindsay,Greene,3117 Berry Street,Miami,FL,33133,951-551-5048,beachlover18@aol.com
+Rick,Grimes,817 Cherokee Avenue Southeast,Atlanta,GA,30315,9546284555,Rgrimes@gmail.com
+Rick,Grimes,817 Cherokee Avenue,Atlanta,GA,30315,8595459668,rgrimes@kcountysd.org
+Jen,Harris,451 Sawyer Street,New Bedford,MA,02747,508-663-9851,Jharris@Umassd.edu
+Stacie,Hild,666 Common Street,Walpole,MA,02052,508-359-9155,stacie.hild@gmail.com
+Gertrude,Hoffman,88 Transformer Way,Sasafrass,RI,22297,4016751234,Ghoff@aol.com
+Boone,Honeycutt,880 Strawberry Rd,Fall River,MA,12747,508 785 4123,RHoneycutt@yahoo.com
+Maegan,Ide,8 Gold Street,Boston,MA,02128,617-728-0820,maegan_i2@yahoo.com
+Abby,Jackson,275 Tremont St,Boston,MA,02116,617-542-4077,abby_1993jack@yahoo.com
+Matin,Joel,222 Funny Road Avenue,New Bedford,MA,01220,555-123-5567,joel@martin.com
+Mike,Jones,78 Oak Rd,Fall River,MA,09684,890-236-7572,mjones17@gmail.com
+Kyle,Kingston,50 North Newton Avenue,North Yorkshire,ME,11010,2076529876,KK@gmail.com
+Coinpurse,Maloney,38 Hillock Street,Fall River,MA,02723,5086727058,cmaloney45@gmail.com	
+Marshall,Mathers,808 Eminem Drive,Detroit,MI,48201,1-313-888-8888,SlimShady8@gmail.com
+Super,McFun,123 Funbags Road,Las Vegas,NV,89004,1-212-121-2121,Madfunboiii@hotmail.com
+Dexter,Morgan,8240 Palm Terrace,Miami,FL,33142,7866667837,dmorgan@mmetropd.org
+Abed,Nadir,27 State St.,Greendale,CO,80820,508-151-1551,nabed@aol.com		
+Rob,Owens,324 Centennial Farm Road,Rehoboth,MA,02769,712-774-9134,rowens15@gmail.com
+Dave,Pacheco,54 Timber Lane,Fall River,MA,12747,508 569 9874,DPacheco@yahoo.com
+Robert,Paulson,420 Paper St,Wilmington,DE,19886,288-555-1533,Rpaulson@pm.org
+Zachary,Posh,14 Elk Rd.,Providence,RI,98320,983-283-9988,zposh@gmail.com
+John,Reis,12 Hill St,Fall River,MA,12747,508 478 5214,Jreis@yahoo.com
+Douglas,Richardson,36,Oak St.,Portland,ME,38232,833-444-5423
+Jeff,Roy,54 Main St,Warwick,RI,02674,472-986-3112,jeffr@hotmail.com
+Goodman,Saul,166 Lawyer Ave,Albuquerque,NM,87101,555-845-9769,bettercallsaul@hotmail.com
+Tortelli,Sebastian,169 Carson Drive,Carson,CA,09567,619-584-9987,torto@yahoo.com
+Hank,Shrader,4915 Cumbre Del Sur Ct,Albuquerque,NM,87111,555482459,Hshrader@gmail.com
+Marla,Singer,421 Paper St,Wilmington,DE,19886,288-555-0134,Msinger@Tc.org
+Han,Smith,109 New Lights Road,Vienna,VA,11290,999-992-6776,hansmith@gm.com
+Alexander,Smith,3799 S Las Vegas Blvd,Las Vegas,NV,89109,702 891 111,Asmith@lv.mgmgrand.com
+Jack,Sparrow,1 Rumrunner lane,Boring, OR,91230,5088675309,sjack@aol.com	
+Webb,Spud,555 Five St.,Miami,FL,05679,619-584-9987,swebb@aol.com
+Cloud,Strife,7 Chocobo Road,Nibelheim,MA,07511,5085117511,cstrife@soldier.gov
+Gabby,Taylor,Harrison Bulvard,Edaville,MA,03448,5068570112,gabbytaylor90@gmail.com
+Robert,Thomas,66 West St.,San Diego,CA,92101,619-523-9974,rthomas@gmail.com
+Adreana,Valery,288 Cambridge ST,Boston,MA,02114,617-580-5118,adry_94valerinha@gmail.com
+George,Weasley,9 The Burrow Dr,Plymouth,MA,02360,508-224-0212,gweasley@gmail.com
+Fred,Weasley,9 The Burrow Dr,Plymouth,MA,02360,508-224-0213,fweasley@gmail.com
+Walter,White,7327 RV Park Drive,Albuquerque,NM,53280,652-544-1252,theonewhoknocks@hotmail.com
+Walter,White,8 Crytsal Lane,Albuquerque,NM,87101,555-845-9763,heisenberg@gmail.com
+Jeffrey,Winger,26 Dean St.,Greendale,CO,80820,961-652-3867,Wjeffrer98@yahoo.com	

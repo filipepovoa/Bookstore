@@ -1,0 +1,51 @@
+M:\ECE-264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.exe
+M:\ECE-264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.pdb
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.exe
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.pdb
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form3.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form6.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormHome.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormLibraryPolicy.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form_AboutUs.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.exe
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.pdb
+E:\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.exe
+E:\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.pdb
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csprojResolveAssemblyReference.cache
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormHome.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormLibraryPolicy.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form3.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookAddEdit.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronAddEdit.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form6.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form_AboutUs.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
+E:\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.GenerateResource.Cache
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookHistory.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronHistory.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookAdd.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookEdit.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronAdd.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronEdit.resources
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\GenerateResource.write.1.tlog
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.exe
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.pdb
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.exe
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.pdb
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csprojResolveAssemblyReference.cache
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormHome.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormLibraryPolicy.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form3.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookAdd.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronAdd.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form6.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form_AboutUs.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookEdit.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookHistory.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronEdit.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronHistory.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
+\\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.GenerateResource.Cache

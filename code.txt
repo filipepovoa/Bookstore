@@ -1,0 +1,20 @@
+private void checkedListBoxCheckIn_ItemCheck(object sender, ItemCheckEventArgs e)
+        {
+            if (e.NewValue == CheckState.Checked)
+            {
+                itemC++;
+            }
+            if (e.NewValue == CheckState.Unchecked)
+            {
+                itemC--;
+            }
+
+            if (itemC <= 0)
+            {
+                button_CheckIn.Enabled = false;
+            }
+            else
+            {
+                button_CheckIn.Enabled = true;
+            }
+        }

@@ -1,0 +1,10 @@
+The Red Pyramid,Riordan Rick,978-1423113454					
+The Throne of Fire,Riordan Rick,978-1423142010					
+The Serpent's Shadow,Riordan Rick,978-1423142027					
+The Lost Hero,Riordan Rick,978-1423113461					
+The Son of Neptune,Riordan Rick,978-1423141990
+Computer Networks and Internets (5th Edition),Comer Douglas,136066984					
+Essentials of Computer Architecture,Comer Douglas,131491792					
+Algorithms (4th Edition),Sedqewick Robert,032157351X 					
+A Taste of Smalltalk,Kaehler Ted,393955052					
+Computer Networks (4th Edition),Tanenbaum Andrew,130661023
