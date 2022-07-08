@@ -49,3 +49,63 @@ M:\ECE-264\GROUP_F\bookstore\bookstore\obj\x86\Debug\GenerateResource.write.1.tl
 \\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronHistory.resources
 \\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
 \\umdfs1.umdar.umassd.edu\studentshares$\abarros1\Desktop\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\bookstore.exe.config
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\bookstore.exe
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\bookstore.pdb
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormHome.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormLibraryPolicy.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.Form3.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookAdd.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronAdd.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.Form6.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.Form_AboutUs.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookEdit.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookHistory.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronEdit.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronHistory.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.GenerateResource.cache
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.exe
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.pdb
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\EntityFramework.dll
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\System.Data.SQLite.dll
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\EntityFramework.xml
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\bin\Debug\System.Data.SQLite.xml
+C:\Users\Filipe\Documents\Biblioteca Virtual\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.CopyComplete
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.exe.config
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.exe
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\bookstore.pdb
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\EntityFramework.dll
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\EntityFramework.SqlServer.dll
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\System.Data.SQLite.dll
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\EntityFramework.xml
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\EntityFramework.SqlServer.xml
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\bin\Debug\System.Data.SQLite.xml
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.AssemblyReference.cache
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.SuggestedBindingRedirects.cache
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormHome.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormLibraryPolicy.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form3.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookAdd.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronAdd.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form6.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Form_AboutUs.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookEdit.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormBookHistory.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronEdit.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.FormPatronHistory.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.Properties.Resources.resources
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.GenerateResource.cache
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.CoreCompileInputs.cache
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.csproj.CopyComplete
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.exe
+D:\MEU PENDRIVE\ECE 264\GROUP_F\bookstore\bookstore\obj\x86\Debug\bookstore.pdb

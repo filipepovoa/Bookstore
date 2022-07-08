@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Data.SQLite;
 
 using System.IO;
 
@@ -543,7 +544,10 @@ namespace bookstore
             string[] tokens;
             string line;
             Book b;
-            try
+
+            // READING FROM A .TXT FILE
+
+            /*try
             {
                 using (StreamReader sr = new StreamReader("..\\..\\Book.txt"))
                 {
@@ -560,8 +564,30 @@ namespace bookstore
             catch (Exception)
             {
                 MessageBox.Show("An error occured");
+            }*/
+
+            // READING FROM A .DB FILE
+
+            try
+            {
+                using (SQLiteConnection connection = new SQLiteConnection("URI=file:" + Directory.GetCurrentDirectory() + "\\Library.db"))
+                {
+                    connection.Open();
+                    SQLiteCommand command = new SQLiteCommand("SELECT * FROM BOOKS", connection);
+                    SQLiteDataReader reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        b = new Book(reader.GetString(0), reader.GetString(1), reader.GetString(2), reader.GetString(3));
+                        bookInventoryList.Add(b);
+                    }
+                    connection.Close();
+                }
             }
-            
+            catch (Exception)
+            {
+                MessageBox.Show("An error occured");
+            }
+
             // logic for duplicated book
             for (int i = 0; i < bookInventoryList.Count - 1; i++)
             {
@@ -604,7 +630,10 @@ namespace bookstore
             string[] tokensPatron;
             string linePatron;
             Patron p;
-            try
+
+            // READING FROM A .TXT FILE
+
+            /*try
             {
                 using (StreamReader sr = new StreamReader("..\\..\\Patrons.txt"))
                 {
@@ -617,6 +646,35 @@ namespace bookstore
                         patronList.Add(p);
                     }
                     sr.Close();
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("An error occured");
+            }*/
+
+            // READING FROM A .DB FILE
+
+            try
+            {
+                using (SQLiteConnection connection = new SQLiteConnection("URI=file:" + Directory.GetCurrentDirectory() + "\\Library.db"))
+                {
+                    connection.Open();
+                    SQLiteCommand command = new SQLiteCommand("SELECT * FROM PATRONS", connection);
+                    SQLiteDataReader reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        try
+                        {
+                            p = new Patron(reader.GetString(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4), reader.GetString(5), reader.GetString(6), reader.GetString(7));
+                        }
+                        catch (Exception)
+                        {
+                            p = new Patron(reader.GetString(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4), reader.GetString(5), reader.GetString(6), "");
+                        }
+                        patronList.Add(p);
+                    }
+                    connection.Close();
                 }
             }
             catch (Exception)

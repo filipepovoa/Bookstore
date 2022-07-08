@@ -50,4 +50,4 @@ George,Weasley,9 The Burrow Dr,Plymouth,MA,02360,508-224-0212,gweasley@gmail.com
 Fred,Weasley,9 The Burrow Dr,Plymouth,MA,02360,508-224-0213,fweasley@gmail.com
 Walter,White,7327 RV Park Drive,Albuquerque,NM,53280,652-544-1252,theonewhoknocks@hotmail.com
 Walter,White,8 Crytsal Lane,Albuquerque,NM,87101,555-845-9763,heisenberg@gmail.com
-Jeffrey,Winger,26 Dean St.,Greendale,CO,80820,961-652-3867,Wjeffrer98@yahoo.com	
+Jeffrey,Winger,26 Dean St.,Greendale,CO,80820,961-652-3867,Wjeffrer98@yahoo.com

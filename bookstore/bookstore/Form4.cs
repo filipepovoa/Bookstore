@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Data.SQLite;
 
 using System.IO;
 
@@ -64,13 +65,32 @@ namespace bookstore
                 }
             }
 
-            using (StreamWriter sw = new StreamWriter("..\\..\\Book.txt"))
+            // WRITING IN A .TXT FILE
+
+            /*using (StreamWriter sw = new StreamWriter("..\\..\\Book.txt"))
             {
                 foreach (var item in FormHome.bookInventoryList)
                 {
                     sw.WriteLine(item.Title + "," + item.AuthorLastName + "," + item.AuthorFirstName + "," + item.ISBN);
                 }
                 sw.Close();
+            }*/
+
+            // WRITING IN A .DB FILE
+
+            try
+            {
+                using (SQLiteConnection connection = new SQLiteConnection("URI=file:" + Directory.GetCurrentDirectory() + "\\Library.db"))
+                {
+                    connection.Open();
+                    SQLiteCommand command = new SQLiteCommand("INSERT INTO BOOKS VALUES('" + t + "','" + lN + "','" + fN + "','" + iS + "')", connection);
+                    command.ExecuteNonQuery();
+                    connection.Close();
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("An error occured");
             }
         }
     }
